@@ -1,0 +1,15 @@
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\RiotApiTest.exe
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.csprojAssemblyReference.cache
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.AssemblyInfoInputs.cache
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.AssemblyInfo.cs
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.csproj.CopyComplete
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\RiotApiTest.deps.json
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\RiotApiTest.runtimeconfig.json
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\RiotApiTest.runtimeconfig.dev.json
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\RiotApiTest.dll
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\RiotApiTest.pdb
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.csproj.CoreCompileInputs.cache
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.dll
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.pdb
+C:\Users\septe\source\repos\RiotApiTest\RiotApiTest\obj\Debug\netcoreapp3.1\RiotApiTest.genruntimeconfig.cache

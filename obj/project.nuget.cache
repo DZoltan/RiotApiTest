@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2/yvtJlN/UIovAMuzueXhu3BsmWguS6wR7vhhKLQc0jVS1JhsWw1GFB13nRXCSEZb07OIUkjGKVnACKDcupKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\septe\\source\\repos\\RiotApiTest\\RiotApiTest\\RiotApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\septe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

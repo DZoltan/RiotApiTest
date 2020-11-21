@@ -14,6 +14,7 @@ namespace RiotApiTest
             Console.WriteLine("Add meg a kulcsot!");
             string api = Console.ReadLine();
             send_data_to_profile(name,api);
+            Console.ReadLine();
             
         }
 
